@@ -1,0 +1,80 @@
+LOCUS       ECU68759                1531 bp    DNA     linear   BCT 14-DEC-1996
+DEFINITION  Enterobacter cloacae pentaerythritol tetranitrate reductase (onr)
+            gene, complete cds.
+ACCESSION   U68759
+VERSION     U68759.1
+KEYWORDS    .
+SOURCE      Enterobacter cloacae
+  ORGANISM  Enterobacter cloacae
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Enterobacter; Enterobacter cloacae complex.
+REFERENCE   1  (bases 1 to 1531)
+  AUTHORS   Binks,P.R., French,C.E., Nicklin,S. and Bruce,N.C.
+  TITLE     Degradation of pentaerythritol tetranitrate by Enterobacter cloacae
+            PB2
+  JOURNAL   Appl. Environ. Microbiol. 62 (4), 1214-1219 (1996)
+   PUBMED   8919782
+REFERENCE   2  (bases 1 to 1531)
+  AUTHORS   French,C.E., Nicklin,S. and Bruce,N.C.
+  TITLE     Sequence and properties of pentaerythritol tetranitrate reductase
+            from Enterobacter cloacae PB2
+  JOURNAL   J. Bacteriol. 178 (22), 6623-6627 (1996)
+   PUBMED   8932320
+REFERENCE   3  (bases 1 to 1531)
+  AUTHORS   French,C.E. and Bruce,N.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-1996) Biotechnology, University of Cambridge,
+            Tennis Court Road, Cambridge CB2 1QT, UK
+FEATURES             Location/Qualifiers
+     source          1..1531
+                     /organism="Enterobacter cloacae"
+                     /mol_type="genomic DNA"
+                     /strain="PB2"
+                     /db_xref="taxon:550"
+     gene            281..1378
+                     /gene="onr"
+     CDS             281..1378
+                     /gene="onr"
+                     /function="NADPH-dependent reductase"
+                     /note="liberates nitrite from nitrate esters with
+                     oxidation of NADPH"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pentaerythritol tetranitrate reductase"
+                     /protein_id="AAB38683.1"
+                     /translation="MSAEKLFTPLKVGAVTAPNRVFMAPLTRLRSIEPGDIPTPLMGE
+                     YYRQRASAGLIISEATQISAQAKGYAGAPGLHSPEQIAAWKKITAGVHAEDGRIAVQL
+                     WHTGRISHSSIQPGGQAPVSASALNANTRTSLRDENGNAIRVDTTTPRALELDEIPGI
+                     VNDFRQAVANAREAGFDLVELHSAHGYLLHQFLSPSSNQRTDQYGGSVENRARLVLEV
+                     VDAVCNEWSADRIGIRVSPIGTFQNVDNGPNEEADALYLIEELAKRGIAYLHMSETDL
+                     AGGKPYSEAFRQKVRERFHGVIIGAGAYTAEKAEDLIGKGLIDAVAFGRDYIANPDLV
+                     ARLQKKAELNPQRPESFYGGGAEGYTDYPSL"
+ORIGIN      
+        1 ccatggataa aggagccagc ggcgtgattg ccctgttggc tcaggcgctg gagagcgggc
+       61 gcaatgaaaa aacgctctcc ttctccggcg atccgctcac gcaggcacag gtgctctatt
+      121 ccctctggtt aggcgccaac ctgcaagcaa aaatgtctcg cagcgccgtg ccgctcgaaa
+      181 gcgcgctggc gcatgtgaaa aactgtatta ccgcgcctgg cgtgtagccg gcgtttttat
+      241 ttaccctttt actagtcgac tggtctactc aggagccgtt atgtccgctg aaaagctgtt
+      301 taccccactg aaagtgggtg ccgttactgc cccaaaccgc gtgtttatgg ccccacttac
+      361 ccgtctgcgc agcatcgagc cgggcgatat cccaacgcca ttgatgggtg agtattaccg
+      421 ccagcgcgcc agcgcgggcc tgattatctc cgaagccacg cagatttctg ctcaggcaaa
+      481 aggctacgcc ggtgcaccgg gtctgcacag cccggaacag atcgccgcgt ggaaaaaaat
+      541 caccgcaggc gtgcatgctg aagatggccg tattgcggtt cagctgtggc acaccggtcg
+      601 tatctcacac agcagcatcc agcctggcgg tcaggcgccg gtttctgcct ctgccctgaa
+      661 cgccaatacc cgcacttccc tgcgcgatga aaacggtaat gcgatccgcg tcgacaccac
+      721 cacgccacgc gcgctggagc tggacgagat cccgggtatc gtgaatgatt tccgtcaggc
+      781 cgtcgccaac gcccgggaag cgggcttcga cctggttgag cttcactctg cgcacggtta
+      841 cctgctgcat cagttcctgt ccccgtcttc caaccagcgt accgaccagt acggcggcag
+      901 cgttgaaaac cgcgcgcgtc tggtgcttga agtggtggat gctgtctgta atgagtggag
+      961 cgcagaccgc attggtattc gtgtctcccc gatcggtact ttccagaacg tcgacaacgg
+     1021 tccgaacgaa gaagcagacg cgctgtatct gattgaagag ctggcgaaac gcggtatcgc
+     1081 ctatctgcac atgtccgaga cggacttggc aggcggcaag ccttacagtg aagccttccg
+     1141 tcagaaagtg cgcgagcgct tccacggcgt gattatcggg gcgggtgcgt atacggcaga
+     1201 aaaagccgag gatttgatcg gtaaaggcct gatcgacgcc gtggcctttg gccgtgacta
+     1261 cattgctaac ccggatctgg ttgcccgttt gcagaaaaaa gccgaactga acccgcagcg
+     1321 tcctgaaagc ttctatggcg gcggcgcgga aggttatacc gactaccctt cactgtaatc
+     1381 ccgctttgta cattgatagc ggcgaccttt cgccgctata ctaaaacatc gtttctgttc
+     1441 aaaaagataa tccattcgac tggttaatga ggaaattatg cgcctacttc acaccatgct
+     1501 gcgcgttggc gacctgcaac gttccatcga t
+//
+
